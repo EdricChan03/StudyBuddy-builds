@@ -1,9 +1,10 @@
 {
-	"latestVersion": "1.0.0-beta.840",
-	"latestVersionCode": 5,
-	"url": "https://github.com/Chan4077/StudyBuddy-builds/raw/master/release/com.edricchan.studybuddy-v1.0.0-beta.840.apk",
+	"latestVersion": "1.0.0-rc.023",
+	"latestVersionCode": 7,
+	"url": "https://github.com/Chan4077/StudyBuddy-builds/raw/master/release/com.edricchan.studybuddy-v1.0.0-rc.023.apk",
 	"releaseNotes": [
-		"- Add a repo to get builds from",
-		"- Add this changelog json file"
+		"- New launcher icon!!! (That default icon that Android Studio generates is cancer)",
+		"- Skipped a release by mistake (Sorry, forgot to create a release!)",
+		"- More changes are available at the changelog file (for those who would like to take a peek)"
 	]
 }
