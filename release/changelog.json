@@ -1,10 +1,11 @@
 {
-	"latestVersion": "1.0.0-rc.023",
-	"latestVersionCode": 7,
-	"url": "https://github.com/Chan4077/StudyBuddy-builds/raw/master/release/com.edricchan.studybuddy-v1.0.0-rc.023.apk",
+	"latestVersion": "1.0.0-rc.503",
+	"latestVersionCode": 8,
+	"url": "https://github.com/Chan4077/StudyBuddy-builds/raw/master/release/com.edricchan.studybuddy-v1.0.0-rc.503.apk",
 	"releaseNotes": [
-		"- New launcher icon!!! (That default icon that Android Studio generates is cancer)",
-		"- Skipped a release by mistake (Sorry, forgot to create a release!)",
-		"- More changes are available at the changelog file (for those who would like to take a peek)"
+		"- Implemented adaptive icons support on shortcuts (but who cares about shortcuts?)",
+		"- Add notification settings to configure to your heart's content",
+		"- Updated icons to use correct colours",
+		"- Stay tuned for an upcoming release in the future! :P"
 	]
 }
