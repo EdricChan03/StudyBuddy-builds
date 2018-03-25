@@ -1,0 +1,5 @@
+# Apple files
+.DS_Store
+
+# Output file
+release/output.json
