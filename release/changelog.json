@@ -1,11 +1,12 @@
 {
-	"latestVersion": "1.0.0-rc.503",
-	"latestVersionCode": 8,
-	"url": "https://github.com/Chan4077/StudyBuddy-builds/raw/master/release/com.edricchan.studybuddy-v1.0.0-rc.503.apk",
+	"latestVersion": "1.0.0-rc.543",
+	"latestVersionCode": 9,
+	"url": "https://github.com/Chan4077/StudyBuddy-builds/raw/master/release/com.edricchan.studybuddy-v1.0.0-rc.543.apk",
 	"releaseNotes": [
-		"- Implemented adaptive icons support on shortcuts (but who cares about shortcuts?)",
-		"- Add notification settings to configure to your heart's content",
-		"- Updated icons to use correct colours",
-		"- Stay tuned for an upcoming release in the future! :P"
+		"- Initial notifications implementation (Hell yeah! Notification channels! Notification actions! Much more!)",
+		"- Version 5 of app icons",
+		"- Icon colours have been fixed",
+		"- Customize navigation bar colour for devices with support for that bar on the bottom of those devices",
+		"- That's pretty much it. Now go and install that new build! :D"
 	]
 }
