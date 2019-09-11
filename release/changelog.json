@@ -1,4 +1,6 @@
 {
+	"$schema": "../changelog-schema.json",
+	"version": 1,
 	"latestVersion": "1.0.0-rc.543",
 	"latestVersionCode": 9,
 	"url": "https://github.com/Chan4077/StudyBuddy-builds/raw/master/release/com.edricchan.studybuddy-v1.0.0-rc.543.apk",

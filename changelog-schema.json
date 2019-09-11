@@ -1,0 +1,50 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://chan4077.github.io/res/schemas/help-articles.json",
+  "type": "object",
+  "required": [
+    "$schema",
+    "version",
+    "latestVersion",
+    "latestVersionCode",
+    "url",
+    "releaseNotes"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "The schema to use for the JSON file."
+    },
+    "version": {
+      "$comment": "Increment this only when there are major changes to the schema.",
+      "$id": "#/properties/version",
+      "type": "integer",
+      "description": "The version of the schema to use.",
+      "default": 1,
+      "minimum": 0,
+      "maximum": 10
+    },
+    "latestVersion": {
+      "$id": "#/properties/latestVersion",
+      "type": "string",
+      "description": "The name of the latest version available."
+    },
+    "latestVersionCode": {
+      "$id": "#/properties/latestVersionCode",
+      "type": "integer",
+      "description": "The latest version code available."
+    },
+    "url": {
+      "$id": "#/properties/url",
+      "type": "string",
+      "description": "A URL to download the latest release from."
+    },
+    "releaseNotes": {
+      "$id": "#/properties/releaseNotes",
+      "type": "array",
+      "description": "An array of strings to show for the release notes."
+    }
+  },
+  "additionalProperties": false
+}
